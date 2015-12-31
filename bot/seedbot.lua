@@ -337,9 +337,9 @@ Commands list :
 *فقط مدیران و ادمین اصلی گروه می توانند ربات داخل گروه اد کنند
 
 
-* استفاده کنند kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings فقط مدیران می توانند از
+* فقط مدیران می توانند از kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings استفاده کنند
 
-* استفاده کند res,setowner,promote,demote and log فقط ادمین اصلی می تواند از 
+* فقط ادمین اصلی می تواند از res,setowner,promote,demote and log  استفاده کند
 
 Tnx to SEED Team @infinitiSiS and @Wolfsm
 ]]
